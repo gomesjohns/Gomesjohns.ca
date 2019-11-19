@@ -10,7 +10,8 @@ h1, h2, h3, h4, h5, h6 {
 
 /* header */
 .header{
-   
+    width: 100%;
+    height: 100%;
     overflow: hidden;
     margin: 0%;
 }
@@ -21,21 +22,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 .headerBg img {
     transform: scale(1.01);
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
 }
 .headerSubject{
-  /*   background-image: url(./images/Header_Subject.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    width: 461px;
-    height: 676px;
-    position: absolute;
-    display: inline-block;
-    bottom: 0%;
-    left: 50%;
-    margin-left: -230px; */
-    left: 50% !important; 
-    margin-left: -230px;
+    left: 50% !important;
+    margin-left: -181px;
     bottom: -40%;
+    margin-top: 15%;
 }
 .headerTitle{
     position: absolute;
