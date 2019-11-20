@@ -1,8 +1,8 @@
- /* Global css */
- body, html{
-    background-color:#d1d1d1; 
-    height: 100%;
-    font-family: 'Montserrat', sans-serif;
+/* Global css */
+body, html{
+background-color:#262626; 
+height: 100%;
+font-family: 'Montserrat', sans-serif;
 }
 h1, h2, h3, h4, h5, h6 {
     color: #D7D7D9;
@@ -10,26 +10,27 @@ h1, h2, h3, h4, h5, h6 {
 
 /* header */
 .header{
-    width: 100%;
-    height: 100%;
+    /* width: 100vw; */
+    height: 100vh;
     overflow: hidden;
     margin: 0%;
 }
-.fill {
-    width: 100%;
-    height: inherit;
-    object-fit: cover;
-}
 .headerBg img {
     transform: scale(1.01);
-    width: -webkit-fill-available;
-    height: -webkit-fill-available;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
 }
-.headerSubject{
-    left: 50% !important;
-    margin-left: -181px;
-    bottom: -40%;
-    margin-top: 15%;
+.headerSubject {
+  width: 100%;
+  top: auto !important;
+}
+.headerSubject img{
+    text-align: center;
+    margin: auto;
+    display: block;
+    height: auto;
+    width: 397px;
 }
 .headerTitle {
     width: 100%;
@@ -44,18 +45,29 @@ h1, h2, h3, h4, h5, h6 {
     letter-spacing: 20px;
 }
 
-
+/* 
+    ##Device = Large desktop screens
+    ##Screen = 2000px and up
+*/
+@media (min-width: 2000px) {
+    .headerSubject{
+        bottom: -2%!important;
+    }
+}
 /* 
     ##Device = Laptops, Desktops
     ##Screen = B/w 1500px to 1920px
 */
 @media (min-width: 1500px) and (max-width: 1920px) {
     .headerTitle {
-        /* top: 0% !important; */
+        top: 18% !important;
     }
     .headerTitle h1{
         font-size: 300px;
         /* padding: 10%; */
+    }
+    .headerSubject{
+        bottom: -2%!important;
     }
 }
 
@@ -66,5 +78,21 @@ h1, h2, h3, h4, h5, h6 {
 @media (min-width: 600px) and (max-width: 1500px) {
     .headerTitle {
         top: 20% !important;
+    }
+    .headerSubject{
+        bottom: -35%!important;
+    }
+}
+
+/* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 200px to 600px
+*/
+@media (min-width: 200px) and (max-width: 600px) {
+    .headerSubject{
+        bottom: -35%!important;
+    }
+    .headerSubject img{
+        width: 95%;
     }
 }
