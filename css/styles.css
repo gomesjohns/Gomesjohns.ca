@@ -18,7 +18,7 @@ a, p{
     background-color: #3C3F40!important;
     transition: background-color 500ms ease;
 }
-/* header */
+/* Header */
 .header{
     /* width: 100vw; */
     height: 100vh;
@@ -44,8 +44,8 @@ a, p{
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#262626",endColorstr="#3c3f40",GradientType=1);
 }
 .headerSubject {
-  width: 100%;
-  top: auto !important;
+    width: 100%;
+    top: auto !important;
 }
 .headerSubject img{
     text-align: center;
@@ -59,6 +59,7 @@ a, p{
     margin: 0 auto;
     text-align: center;
     top: 30% !important;
+    z-index: 0;
 }
 
 .headerTitle h1{
@@ -67,7 +68,7 @@ a, p{
 
 /* Text */
 .heading-section h1{
-        font-weight: 700;
+    font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 2px;
 }
@@ -85,35 +86,41 @@ a, p{
 .project-block:hover{
     cursor: pointer;
 }
+.project-block:after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    content: '';
+    background: #000;
+    opacity: 0;
+    z-index: 0;
+    -webkit-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s; 
+}
+@media (prefers-reduced-motion: reduce) {
     .project-block:after {
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      content: '';
-      background: #000;
-      opacity: 0;
-      z-index: 0;
-      -webkit-transition: 0.3s;
-      -o-transition: 0.3s;
-      transition: 0.3s; }
-      @media (prefers-reduced-motion: reduce) {
-        .project-block:after {
-          -webkit-transition: none;
-          -o-transition: none;
-          transition: none; } }
-    .project-block .text span {
-      color: rgba(255, 255, 255, 0.9); }
-    .project-block h2 {
-      color: #fff;
-      line-height: 1.2;
-      font-size: 18px; }
-      .project-block h2 a {
-        color: #fff; }
-    .project-block .desc {
-      z-index: 1; }
-
+        -webkit-transition: none;
+        -o-transition: none;
+        transition: none; 
+    } 
+}
+.project-block .text span {
+    color: rgba(255, 255, 255, 0.9);
+ }
+.project-block h2 {
+    color: #fff;
+    line-height: 1.2;
+    font-size: 18px; 
+}
+.project-block h2 a {
+    color: #fff; 
+}
+.project-block .desc {
+    z-index: 1; 
+}
 .project-block .icon {
     position: absolute;
     top: 50%;
@@ -131,17 +138,20 @@ a, p{
     -o-transition: 0.3s;
     transition: 0.3s; 
 }
-      @media (prefers-reduced-motion: reduce) {
-        .project-block .icon {
-          -webkit-transition: none;
-          -o-transition: none;
-          transition: none; } }
-    .project-block:hover:after {
-      opacity: .5; }
-    .project-block:hover .icon {
-      opacity: 1; }
-
-    .project-overlay{
+@media (prefers-reduced-motion: reduce) {
+    .project-block .icon {
+        -webkit-transition: none;
+        -o-transition: none;
+        transition: none; 
+    } 
+}
+.project-block:hover:after {
+    opacity: .5; 
+}
+.project-block:hover .icon {
+    opacity: 1; 
+}
+.project-overlay{
     position: absolute;
     top: 0;
     left: 0;
@@ -152,7 +162,7 @@ a, p{
     background: -webkit-linear-gradient(0deg, rgba(38,38,38,0.7539390756302521) 0%, rgba(60,63,64,0) 50%);
     background: linear-gradient(0deg, rgba(38,38,38,0.7539390756302521) 0%, rgba(60,63,64,0) 50%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#262626",endColorstr="#3c3f40",GradientType=1);
-    }
+}
 /* 
     ##Device = Larger desktop screens
     ##Screen = 2000px and up
@@ -208,16 +218,18 @@ a, p{
     ##Screen =576px
 */
 @media (max-width: 576px) {
-    .headerSubject{
-        bottom: -35%!important;
-    }
     .headerSubject img{
-       visibility: hidden;
+        height: 85vh;
+        width: auto;
+    }
+    .headerSubject{
+        bottom: -2%!important;
     }
     .headerTitle h1{
-        font-size: 50px;
+        font-size: 55px;
     }
     .headerTitle{
         top:40% !important;
+        z-index: 1 !important;
     }
 }
