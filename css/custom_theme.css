@@ -348,12 +348,6 @@
     font-weight: 300;
     line-height: 1.2; }
   
-  hr {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    border: 0;
-    border-top: 1px solid rgba(0, 0, 0, 0.1); }
-  
   small,
   .small {
     font-size: 80%;
@@ -8336,8 +8330,8 @@
     transform: translateX(0px);
     opacity: 1; }
   
-  .hero-wrap {
-    width: 100%;
+  /* .hero-wrap {
+    width: 101%;
     position: relative;
     background-size: cover;
     background-repeat: no-repeat;
@@ -8345,7 +8339,7 @@
     z-index: 0; }
     @media (max-width: 1199.98px) {
       .hero-wrap {
-        background-position: top center !important; } }
+        background-position: top center !important; } } */
     .hero-wrap .overlay {
       position: absolute;
       top: 0;
