@@ -47,9 +47,32 @@ a, p{
 .text-bottom{
     align-self: flex-end;
 }
+.text-small{
+    font-size: 12px;
+}
+.display-block
+{
+    display: block;
+}
+.w-fitContent{
+    width: fit-content;
+}
+.w-10 {
+    width: 10% !important; 
+}
+.mr-25{
+    margin-right: 25% !important;
+}
+.ml-25{
+    margin-left: 25% !important;
+}
+.neg-m{
+    margin-top: -3%;
+}
 /* Navbar */
 .nav-custom{
     background-color: #4a4a4a!important;
+    z-index: 1;
 }
 .fixed-top.scrolled {
     background-color: #4a4a4a!important;
@@ -58,7 +81,7 @@ a, p{
 /* Header */
 .header{
     overflow: hidden;
-    margin: 0%;
+    /* margin: 0%; */
 }
 .headerBg {
     background-size: cover;
@@ -275,5 +298,16 @@ a, p{
     .headerTitle{
         top:40% !important;
         z-index: 1 !important;
+    }
+}
+
+/* 
+    ##Device = Anything bigger than Smartphone screen
+    ##Screen = 576px
+*/
+@media (min-width: 576px){
+    .tools-used{
+        margin-left: 20% ;
+        margin-right: 20% ;
     }
 }
