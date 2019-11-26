@@ -23,7 +23,8 @@ a, p{
     margin-top: 1rem;
     margin-bottom: 1rem;
     border: 0;
-    border-top: 1px solid rgba(255, 255, 255, 0.09); }
+    border-top: 1px solid rgba(255, 255, 255, 0.09); 
+}
 
 .bgSize-auto{
     background-size: auto !important;
@@ -72,7 +73,7 @@ a, p{
 /* Navbar */
 .nav-custom{
     background-color: #4a4a4a!important;
-    z-index: 1;
+    /* z-index: 1; */
 }
 .fixed-top.scrolled {
     background-color: #4a4a4a!important;

@@ -3,7 +3,6 @@
 <head>
     <title>Gomesjohns</title>
     <link rel="icon" type="image/png" href="assets/images/favicon.png">
-
     <!-- Behavioral Meta Data -->
 	<meta name="apple-mobile-web-app-capable" content="yes">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -24,15 +23,14 @@
     integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <!--Gomesjohns.ca CSS-->
     <link rel="stylesheet" type="text/css" href="css/custom_theme.css"> 
-    <link rel="stylesheet" type="text/css" href="css/style.css">  
-
+    <link rel="stylesheet" type="text/css" href="css/style.css">    
 </head>
 <body>
     <!-- Navbar -->
-    <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
+    <nav id="navbar" class="navbar navbar-expand-lg navbar-dark fixed-top">
         <div class="container">
             <a class="navbar-brand" href="index.php">
-                <img src="/assets/images/Logo_light.png" width="90" alt="logo of gomesjohns.ca">
+                <img src="assets/images/Logo_light.png" width="90" alt="logo of gomesjohns.ca">
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" 
             aria-expanded="false" aria-label="Toggle navigation">

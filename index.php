@@ -1,11 +1,11 @@
     <?php include('nav.php');?>
 
     <!--Header -->
-    <div id="scene" class="header neg-m">
+    <div id="scene" class="header">
         <!-- Parallax layer 1 -->
         <div class="layer" data-depth="0.02" >
             <!-- Background div -->
-            <div class="headerBg js-fullheight" style="background-image: url(/assets/images/Header_BG.jpg);"
+            <div class="headerBg js-fullheight" style="background-image: url(assets/images/Header_BG.jpg);"
             data-stellar-background-ratio="0.9"></div>
         </div>
         <!-- Background overlay -->
@@ -18,7 +18,8 @@
             </h1>
         </div>
         <!-- Parallax layer 3-->
-        <div class="layer headerSubject" data-depth="0.1"><img class="" src="/assets/images/Header_Subject.png"></div>
+        <div class="layer headerSubject" data-depth="0.1"><img class="" src="assets/images/Header_Subject.png"></div>
+        
     </div>
 
     <!-- Featured Projects -->
@@ -49,7 +50,7 @@
             </div>
 
             <div class="col-md-4 ftco-animate p-2">
-                <div class="project-block img d-flex align-items-end" style="background-image: url(assets/images/CMS_Angular/admin_dashboard.JPG);">
+                <div class="project-block img d-flex align-items-end" style="background-image: url(assets/images/CFMS_Angular/CFMS_SC1.JPG);">
                     <div class="project-overlay"></div>
                     <a href="project-CFMS.php" class="icon d-flex justify-content-center align-items-center">
                         <i class="fas fa-external-link-alt fa-2x"></i>
@@ -113,5 +114,5 @@
         </div>
          
     </div>
-
+    
     <?php include('footer.php');?>

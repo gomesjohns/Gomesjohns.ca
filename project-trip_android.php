@@ -1,6 +1,5 @@
 <?php include('nav.php');?>
 
-    <div class="mt-5"></div>
     <!-- Trip Planner Project -->
     <div class="py-5 container">
         <!-- Header Text -->

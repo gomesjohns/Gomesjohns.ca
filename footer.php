@@ -32,11 +32,15 @@
         <script src="js/scrollax.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/parallax/2.1.3/parallax.min.js"></script>
         <script src="js/custom_theme.js"></script>
-        <script src="js/script.js"></script> 
+        <script src="js/script.js"></script>   
         <script>
-            var scene = document.getElementById('scene');
+            var pagename= location.pathname.split('/').pop();
+            console.log(pagename);
+            if(pagename == 'index.php' || pagename == ''){
+                 var scene = document.getElementById('scene');
             var parallax = new Parallax(scene);
-        </script>
+            } 
+        </script>  
     </body>
     </html>
         

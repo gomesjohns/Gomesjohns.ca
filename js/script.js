@@ -54,11 +54,17 @@ window.onload = function() {
     css.innerHTML = ".typewrite > .wrap { border-right: 0.08em solid #D7D7D9}";
     document.body.appendChild(css);
 };
-
-// Navbar Scoll
-$(function () {
+// Custom navbar background function
+$(function(){
+  var pagename= location.pathname.split('/').pop();
+  var nav = $(".navbar");
+  if (pagename == 'index.php' || pagename == ''){
+    // Navbar scroll bg
     $(document).scroll(function () {
-      var $nav = $(".fixed-top");
-      $nav.toggleClass('scrolled', $(this).scrollTop() > $nav.height());
+        nav.toggleClass('scrolled', $(this).scrollTop() > nav.height());
     });
-  });
+  }else{
+      nav.addClass("nav-custom"); 
+      nav.removeClass("fixed-top"); 
+  }
+});

@@ -1,46 +1,46 @@
 <?php include('nav.php');?>
 
-    <div class=" mt-5"></div>
-    <!-- Trip Planner Project -->
+    <!-- Customer Feedback Management System -->
     <div class="py-5 container">
         <!-- Header Text -->
         <div class="row">
-            <div class="col-lg-12 heading-section text-center">
-                <h1>Customer feedback management system</h1>
-                <p>Trip Planner is an Android app that organizes flight, hotel and car reservation for trips. <br/> 
-                        It helps make sense of all the travel plans and create a single itinerary for every trip.</p>    
+            <div class="m-auto heading-section text-center">
+                <h1>Customer feedback system</h1>
+                <p>Customer feedback management system is a MEAN application. This application allows customers to leave feedback about a company or
+                    organization. Company or organization can then use those feedback to improve their customer service. 
+                </p>    
             </div>
         </div>
 
         <!-- Tools used section -->
         <div class="tools-used mt-4 text-center row ">
             <div class="m-auto w-10">
-                    <img src="https://img.icons8.com/color/40/000000/android-os.png" alt="Image of Android OS" title="Android Studio">
+                <img src="https://img.icons8.com/color/40/000000/android-os.png" alt="Image of Android OS" title="Android Studio">
                 <span class="text-muted display-block text-small">Android <br/>Studio</span>
             </div>
 
             <div class="m-auto w-10">
-            <img src="https://img.icons8.com/color/40/000000/google-firebase-console.png" alt="Image of Google Firebase" title="Google Firebase">
-            <span class="text-muted display-block text-small">Google <br/>Firebase</span>
+                <img src="https://img.icons8.com/color/40/000000/google-firebase-console.png" alt="Image of Google Firebase" title="Google Firebase">
+                <span class="text-muted display-block text-small">Google <br/>Firebase</span>
             </div>
             
             <div class="m-auto w-10">
-            <img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png" alt="Image of Java Programming" title="Java Programming Language"> 
-            <span class="text-muted display-block text-small">Java</span>
+                <img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png" alt="Image of Java Programming" title="Java Programming Language"> 
+                <span class="text-muted display-block text-small">Java</span>
             </div>
 
             <div class="m-auto w-10">
-            <img src="https://img.icons8.com/color/40/000000/xml-file.png" alt="Image of Extensible Markup Language" title="XML">
-            <span class="text-muted display-block text-small">XML</span>
+                <img src="https://img.icons8.com/color/40/000000/xml-file.png" alt="Image of Extensible Markup Language" title="XML">
+                <span class="text-muted display-block text-small">XML</span>
             </div>    
         </div>
 
         <!-- Image Gallery -->
         <div class="row py-5 no-gutters">
             <div class="col-md-4 ftco-animate p-2 ">    
-                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/Trip_Android/TripApp_SC1.jpg);">
+                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/CFMS_Angular/CFMS_SC1.JPG);">
                     <div class="project-overlay"></div>
-                    <a href="assets/images/Trip_Android/TripApp_SC1.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+                    <a href="assets/images/CFMS_Angular/CFMS_SC1.JPG" class="icon image-popup d-flex justify-content-center align-items-center">
                         <i class="fas fa-photo-video fa-2x"></i>
                     </a>
                     <div class="desc w-100 px-4">
@@ -52,9 +52,9 @@
             </div>
 
             <div class="col-md-4 ftco-animate p-2 ">    
-                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/Trip_Android/TripApp_SC4.jpg);">
+                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/CFMS_Angular/CFMS_SC2.JPG);">
                     <div class="project-overlay"></div>
-                    <a href="assets/images/Trip_Android/TripApp_SC4.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+                    <a href="assets/images/CFMS_Angular/CFMS_SC2.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
                         <i class="fas fa-photo-video fa-2x"></i>
                     </a>
                     <div class="desc w-100 px-4">
@@ -66,9 +66,9 @@
             </div>
 
             <div class="col-md-4 ftco-animate p-2 ">    
-                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/Trip_Android/TripApp_SC2.jpg);">
+                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/CFMS_Angular/CFMS_SC3.jpg);">
                     <div class="project-overlay"></div>
-                    <a href="assets/images/Trip_Android/TripApp_SC2.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+                    <a href="assets/images/CFMS_Angular/CFMS_SC3.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
                         <i class="fas fa-photo-video fa-2x"></i>
                     </a>
                     <div class="desc w-100 px-4">
@@ -80,9 +80,9 @@
             </div>
 
             <div class="col-md-4 ftco-animate p-2 ">    
-                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/Trip_Android/TripApp_SC3.jpg);">
+                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/CFMS_Angular/CFMS_SC4.jpg);">
                     <div class="project-overlay"></div>
-                    <a href="assets/images/Trip_Android/TripApp_SC3.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+                    <a href="assets/images/CFMS_Angular/CFMS_SC4.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
                         <i class="fas fa-photo-video fa-2x"></i>
                     </a>
                     <div class="desc w-100 px-4">
@@ -96,9 +96,9 @@
            
 
             <div class="col-md-4 ftco-animate p-2 ">    
-                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/Trip_Android/TripApp_SC5.jpg);">
+                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/CFMS_Angular/CFMS_SC5.jpg);">
                     <div class="project-overlay"></div>
-                    <a href="assets/images/Trip_Android/TripApp_SC5.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+                    <a href="assets/images/CFMS_Angular/CFMS_SC5.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
                         <i class="fas fa-photo-video fa-2x"></i>
                     </a>
                     <div class="desc w-100 px-4">
@@ -110,9 +110,9 @@
             </div>
 
             <div class="col-md-4 ftco-animate p-2 ">    
-                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/Trip_Android/TripApp_SC6.jpg);">
+                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/CFMS_Angular/CFMS_SC6.jpg);">
                     <div class="project-overlay"></div>
-                    <a href="assets/images/Trip_Android/TripApp_SC6.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+                    <a href="assets/images/CFMS_Angular/CFMS_SC6.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
                         <i class="fas fa-photo-video fa-2x"></i>
                     </a>
                     <div class="desc w-100 px-4">
@@ -124,9 +124,23 @@
             </div>
 
             <div class="col-md-4 ftco-animate p-2 ">    
-                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/Trip_Android/TripApp_SC7.jpg);">
+                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/CFMS_Angular/CFMS_SC7.jpg);">
                     <div class="project-overlay"></div>
-                    <a href="assets/images/Trip_Android/TripApp_SC7.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+                    <a href="assets/images/CFMS_Angular/CFMS_SC7.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+                        <i class="fas fa-photo-video fa-2x"></i>
+                    </a>
+                    <div class="desc w-100 px-4">
+                            <div class="text w-100 mb-3 text-small">
+                                <span>Adding a new trip. When added, the item then is available in the trip list recyclerview.</span>
+                            </div>
+                        </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 ftco-animate p-2 ">    
+                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/CFMS_Angular/CFMS_SC8.jpg);">
+                    <div class="project-overlay"></div>
+                    <a href="assets/images/CFMS_Angular/CFMS_SC8.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
                         <i class="fas fa-photo-video fa-2x"></i>
                     </a>
                     <div class="desc w-100 px-4">
@@ -137,6 +151,19 @@
                 </div>
             </div>
             
+            <div class="col-md-4 ftco-animate p-2 ">    
+                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/CFMS_Angular/CFMS_SC9.jpg);">
+                    <div class="project-overlay"></div>
+                    <a href="assets/images/CFMS_Angular/CFMS_SC9.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+                        <i class="fas fa-photo-video fa-2x"></i>
+                    </a>
+                    <div class="desc w-100 px-4">
+                            <div class="text w-100 mb-3 text-small">
+                                <span>Adding a new trip. When added, the item then is available in the trip list recyclerview.</span>
+                            </div>
+                        </div>
+                </div>
+            </div>
         </div>        
     </div>
     
