@@ -3,33 +3,33 @@
     <!-- Trip Planner Project -->
     <div class="py-5 container">
         <!-- Header Text -->
-        <div class="row">
-            <div class="col-lg-12 heading-section text-center">
+        <div class="row project-title">
+            <div class="m-auto heading-section text-center">
                 <h1>Trip Planner</h1>
-                <p>Trip Planner is an Android app that organizes flight, hotel and car reservation for trips. <br/> 
-                        It helps make sense of all the travel plans and create a single itinerary for every trip.</p>    
+                <p>Trip Planner is an Android app that organizes flight, hotel and car reservation for trips.
+                    It helps make sense of all the travel plans and create a single itinerary for every trip.</p>    
             </div>
         </div>
 
         <!-- Tools used section -->
         <div class="tools-used mt-4 text-center row ">
             <div class="m-auto w-10">
-                    <img src="https://img.icons8.com/color/40/000000/android-os.png" alt="Image of Android OS" title="Android Studio">
+                    <img src="https://img.icons8.com/color/40/000000/android-os.png" alt="Logo of Android OS" title="Android Studio">
                 <span class="text-muted display-block text-small">Android <br/>Studio</span>
             </div>
 
             <div class="m-auto w-10">
-            <img src="https://img.icons8.com/color/40/000000/google-firebase-console.png" alt="Image of Google Firebase" title="Google Firebase">
+            <img src="https://img.icons8.com/color/40/000000/google-firebase-console.png" alt="Logo of Google Firebase" title="Google Firebase">
             <span class="text-muted display-block text-small">Google <br/>Firebase</span>
             </div>
             
             <div class="m-auto w-10">
-            <img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png" alt="Image of Java Programming" title="Java Programming Language"> 
+            <img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png" alt="Logo of Java Programming" title="Java Programming Language"> 
             <span class="text-muted display-block text-small">Java</span>
             </div>
 
             <div class="m-auto w-10">
-            <img src="https://img.icons8.com/color/40/000000/xml-file.png" alt="Image of Extensible Markup Language" title="XML">
+            <img src="https://img.icons8.com/color/40/000000/xml-file.png" alt="Logo of Extensible Markup Language" title="XML">
             <span class="text-muted display-block text-small">XML</span>
             </div>    
         </div>

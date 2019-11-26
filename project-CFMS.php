@@ -3,10 +3,10 @@
     <!-- Customer Feedback Management System -->
     <div class="py-5 container">
         <!-- Header Text -->
-        <div class="row">
-            <div class="m-auto heading-section text-center">
+        <div class="row project-title">
+            <div class="m-auto heading-section text-center ">
                 <h1>Customer feedback system</h1>
-                <p>Customer feedback management system is a MEAN application. This application allows customers to leave feedback about a company or
+                <p>Customer feedback management system is a MEAN application. This application allow customers to leave feedback about a company or
                     organization. Company or organization can then use those feedback to improve their customer service. 
                 </p>    
             </div>
@@ -15,23 +15,23 @@
         <!-- Tools used section -->
         <div class="tools-used mt-4 text-center row ">
             <div class="m-auto w-10">
-                <img src="https://img.icons8.com/color/40/000000/android-os.png" alt="Image of Android OS" title="Android Studio">
-                <span class="text-muted display-block text-small">Android <br/>Studio</span>
+                <img src="https://img.icons8.com/color/40/000000/mongodb.png" alt="Logo of MongoDB" title="MongoDB">
+                <span class="text-muted display-block text-small">MongoDB</span>
             </div>
 
             <div class="m-auto w-10">
-                <img src="https://img.icons8.com/color/40/000000/google-firebase-console.png" alt="Image of Google Firebase" title="Google Firebase">
-                <span class="text-muted display-block text-small">Google <br/>Firebase</span>
+                <img src="https://img.icons8.com/color/40/000000/server.png" alt="Logo of Express Server" title="Express Server">
+                <span class="text-muted display-block text-small">Express</span>
             </div>
             
             <div class="m-auto w-10">
-                <img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png" alt="Image of Java Programming" title="Java Programming Language"> 
-                <span class="text-muted display-block text-small">Java</span>
+                <img src="https://img.icons8.com/color/40/000000/angularjs.png" alt="Logo of AngularJS" title="AngularJS"> 
+                <span class="text-muted display-block text-small">Angular JS</span>
             </div>
 
             <div class="m-auto w-10">
-                <img src="https://img.icons8.com/color/40/000000/xml-file.png" alt="Image of Extensible Markup Language" title="XML">
-                <span class="text-muted display-block text-small">XML</span>
+                <img src="https://img.icons8.com/color/40/000000/nodejs.png" alt="Logo of NodeJS" title="NodeJS">
+                <span class="text-muted display-block text-small">NodeJS</span>
             </div>    
         </div>
 
@@ -54,7 +54,7 @@
             <div class="col-md-4 ftco-animate p-2 ">    
                 <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/CFMS_Angular/CFMS_SC2.JPG);">
                     <div class="project-overlay"></div>
-                    <a href="assets/images/CFMS_Angular/CFMS_SC2.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+                    <a href="assets/images/CFMS_Angular/CFMS_SC2.JPG" class="icon image-popup d-flex justify-content-center align-items-center">
                         <i class="fas fa-photo-video fa-2x"></i>
                     </a>
                     <div class="desc w-100 px-4">
@@ -66,9 +66,9 @@
             </div>
 
             <div class="col-md-4 ftco-animate p-2 ">    
-                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/CFMS_Angular/CFMS_SC3.jpg);">
+                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/CFMS_Angular/CFMS_SC3.JPG);">
                     <div class="project-overlay"></div>
-                    <a href="assets/images/CFMS_Angular/CFMS_SC3.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+                    <a href="assets/images/CFMS_Angular/CFMS_SC3.JPG" class="icon image-popup d-flex justify-content-center align-items-center">
                         <i class="fas fa-photo-video fa-2x"></i>
                     </a>
                     <div class="desc w-100 px-4">
@@ -80,9 +80,9 @@
             </div>
 
             <div class="col-md-4 ftco-animate p-2 ">    
-                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/CFMS_Angular/CFMS_SC4.jpg);">
+                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/CFMS_Angular/CFMS_SC4.JPG);">
                     <div class="project-overlay"></div>
-                    <a href="assets/images/CFMS_Angular/CFMS_SC4.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+                    <a href="assets/images/CFMS_Angular/CFMS_SC4.JPG" class="icon image-popup d-flex justify-content-center align-items-center">
                         <i class="fas fa-photo-video fa-2x"></i>
                     </a>
                     <div class="desc w-100 px-4">
@@ -96,9 +96,9 @@
            
 
             <div class="col-md-4 ftco-animate p-2 ">    
-                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/CFMS_Angular/CFMS_SC5.jpg);">
+                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/CFMS_Angular/CFMS_SC5.JPG);">
                     <div class="project-overlay"></div>
-                    <a href="assets/images/CFMS_Angular/CFMS_SC5.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+                    <a href="assets/images/CFMS_Angular/CFMS_SC5.JPG" class="icon image-popup d-flex justify-content-center align-items-center">
                         <i class="fas fa-photo-video fa-2x"></i>
                     </a>
                     <div class="desc w-100 px-4">
@@ -110,9 +110,9 @@
             </div>
 
             <div class="col-md-4 ftco-animate p-2 ">    
-                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/CFMS_Angular/CFMS_SC6.jpg);">
+                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/CFMS_Angular/CFMS_SC6.JPG);">
                     <div class="project-overlay"></div>
-                    <a href="assets/images/CFMS_Angular/CFMS_SC6.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+                    <a href="assets/images/CFMS_Angular/CFMS_SC6.JPG" class="icon image-popup d-flex justify-content-center align-items-center">
                         <i class="fas fa-photo-video fa-2x"></i>
                     </a>
                     <div class="desc w-100 px-4">
@@ -124,9 +124,9 @@
             </div>
 
             <div class="col-md-4 ftco-animate p-2 ">    
-                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/CFMS_Angular/CFMS_SC7.jpg);">
+                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/CFMS_Angular/CFMS_SC7.JPG);">
                     <div class="project-overlay"></div>
-                    <a href="assets/images/CFMS_Angular/CFMS_SC7.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+                    <a href="assets/images/CFMS_Angular/CFMS_SC7.JPG" class="icon image-popup d-flex justify-content-center align-items-center">
                         <i class="fas fa-photo-video fa-2x"></i>
                     </a>
                     <div class="desc w-100 px-4">
@@ -138,9 +138,9 @@
             </div>
 
             <div class="col-md-4 ftco-animate p-2 ">    
-                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/CFMS_Angular/CFMS_SC8.jpg);">
+                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/CFMS_Angular/CFMS_SC8.JPG);">
                     <div class="project-overlay"></div>
-                    <a href="assets/images/CFMS_Angular/CFMS_SC8.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+                    <a href="assets/images/CFMS_Angular/CFMS_SC8.JPG" class="icon image-popup d-flex justify-content-center align-items-center">
                         <i class="fas fa-photo-video fa-2x"></i>
                     </a>
                     <div class="desc w-100 px-4">
@@ -152,9 +152,9 @@
             </div>
             
             <div class="col-md-4 ftco-animate p-2 ">    
-                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/CFMS_Angular/CFMS_SC9.jpg);">
+                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/CFMS_Angular/CFMS_SC9.JPG);">
                     <div class="project-overlay"></div>
-                    <a href="assets/images/CFMS_Angular/CFMS_SC9.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+                    <a href="assets/images/CFMS_Angular/CFMS_SC9.JPG" class="icon image-popup d-flex justify-content-center align-items-center">
                         <i class="fas fa-photo-video fa-2x"></i>
                     </a>
                     <div class="desc w-100 px-4">

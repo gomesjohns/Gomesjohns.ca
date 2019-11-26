@@ -307,6 +307,10 @@ a, p{
     ##Screen = 576px
 */
 @media (min-width: 576px){
+    .project-title{
+        margin-left: 20% ;
+        margin-right: 20% ;
+    }
     .tools-used{
         margin-left: 20% ;
         margin-right: 20% ;
