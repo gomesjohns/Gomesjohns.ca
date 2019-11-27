@@ -121,7 +121,7 @@ a, p{
     width: 100%;
     margin: 0 auto;
     text-align: center;
-    top: 30% !important;
+    top: 35% !important;
     z-index: 0;
 }
 
@@ -235,7 +235,7 @@ a, p{
     ##Device = Larger desktop screens
     ##Screen = 2000px and up
 */
-@media (min-width: 2000px) {
+@media (max-width: 2000px) {
     .headerTitle h1{
         font-size: 250px;
     }
@@ -248,11 +248,11 @@ a, p{
 }
 /* 
     ##Device = Large Laptops, Desktops
-    ##Screen = B/w 1520px to 1920px
+    ##Screen = 1920px
 */
-@media (min-width: 1520px) and (max-width: 1920px) {
+@media (max-width: 1920px) {
     .headerTitle h1{
-        font-size: 200px;
+        font-size: 120px;
     }
     .headerSubject{
         bottom: -2%!important;
@@ -261,9 +261,9 @@ a, p{
 
 /* 
     ##Device = Laptops, Desktops
-    ##Screen = B/w 600px to 1500px
+    ##Screen = 1500px
 */
-@media (min-width: 600px) and (max-width: 1500px) {
+@media (max-width: 1500px) {
     .headerTitle h1{
         font-size: 100px;
     }

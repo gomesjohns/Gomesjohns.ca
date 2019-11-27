@@ -8,9 +8,8 @@
                             Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | John Gomes | gomesjohns.ca
                         </p>
                         <ul class="ftco-footer-social p-0">
-                            <li class="ftco-animate"><a href="#"><span class="icon-twitter"><i class="fab fa-linkedin"></i></span></a></li>
-                            <li class="ftco-animate"><a href="#"><span class="icon-facebook"><i class="fab fa-instagram"></i></span></a></li>
-                            <li class="ftco-animate"><a href="#"><span class="icon-instagram"><i class="fab fa-github-square"></i></span></a></li>
+                            <li class="ftco-animate"><a href="https://www.linkedin.com/in/john-s-gomes/"><span><i class="fab fa-linkedin"></i></span></a></li>
+                            <li class="ftco-animate"><a href="https://github.com/gomesjohns"><span><i class="fab fa-github-square"></i></span></a></li>
                         </ul>
                     </div>
                 </div>

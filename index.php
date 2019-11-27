@@ -14,7 +14,7 @@
         <div class="layer headerTitle" data-depth="0.05">
             <!-- Text animation -->
             <h1 class="text-wrap">
-                <a href="" class="typewrite" data-period="5000" data-type='[ "Web Developer", "Android Programmer", "UI Designer", "3D Artist"]'></a>
+                <a class="typewrite" data-period="5000" data-type='[ "Full Stack Developer", "Android Programmer", "UI Designer", "3D Artist"]'></a>
             </h1>
         </div>
         <!-- Parallax layer 3-->
@@ -23,8 +23,8 @@
     </div>
 
     <!-- Featured Projects -->
-    <div class="py-5 container">
-        <div class="row justify-content-center">
+    <div class="pt-5 container">
+        <div class="row pt-2 justify-content-center">
             <div class="col-lg heading-section text-center">
                 <h1>Featured Projects</h1>
                 <div class="hr"></div>
@@ -67,7 +67,7 @@
             <div class="col-md-4 ftco-animate p-2 ">
                 <div class="project-block img d-flex align-items-end bgSize-auto bgPos-right" style="background-image: url(assets/images/Invasion_WebGame/Invasion_SC2.JPG);">
                     <div class="project-overlay"></div>
-                    <a href="assets/images/Invasion_WebGame/Invasion_SC2.JPG" class="icon d-flex justify-content-center align-items-center">
+                    <a href="project-invasion.php" class="icon d-flex justify-content-center align-items-center">
                         <i class="fas fa-external-link-alt fa-2x"></i>
                     </a>
                     <div class="desc w-100 px-4">
