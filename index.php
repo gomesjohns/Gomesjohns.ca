@@ -80,10 +80,10 @@
             </div>
 
             <div class="col-md-4 ftco-animate p-2 ">    
-                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/UI_Design_Android/Appliance-Manager-UI.jpg);">
+                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/UI_Design_Appliance_Android/UI_Design_Appliance_SC4.jpg);">
                     <div class="project-overlay"></div>
                     
-                        <a href="assets/images/Trip_App/SC1.jpg" class="icon d-flex justify-content-center align-items-center">
+                        <a href="project-UI_Design_Appliance.php" class="icon d-flex justify-content-center align-items-center">
                             <i class="fas fa-external-link-alt fa-2x"></i>
                             <div class=""></div>
                         </a>
@@ -100,7 +100,7 @@
             <div class="col-md-4 ftco-animate p-2">
                 <div class="project-block img d-flex align-items-end bgPos-left" style="background-image: url(assets/images/CableUnravel_3DAnimation/CableUnravel_SC1.jpg);">
                     <div class="project-overlay"></div>
-                    <a href="assets/images/CableUnravel_3DAnimation/CableUnravel_SC1.jpg" class="icon d-flex justify-content-center align-items-center">
+                    <a href="project-cableUnravel_3DAnimation.php" class="icon d-flex justify-content-center align-items-center">
                         <i class="fas fa-external-link-alt fa-2x"></i>
                     </a>
                     <div class="desc w-100 px-4">

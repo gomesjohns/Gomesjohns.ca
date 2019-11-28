@@ -13,22 +13,22 @@
 
         <!-- Tools used section -->
         <div class="tools-used mt-4 text-center row ">
-            <div class="m-auto w-10">
+            <div class="m-auto w-15">
                     <img src="https://img.icons8.com/color/40/000000/android-os.png" alt="Logo of Android OS" title="Android Studio">
-                <span class="text-muted display-block text-small">Android <br/>Studio</span>
+                <span class="text-muted display-block text-small">Android Studio</span>
             </div>
 
-            <div class="m-auto w-10">
+            <div class="m-auto w-15">
             <img src="https://img.icons8.com/color/40/000000/google-firebase-console.png" alt="Logo of Google Firebase" title="Google Firebase">
-            <span class="text-muted display-block text-small">Google <br/>Firebase</span>
+            <span class="text-muted display-block text-small">Google Firebase</span>
             </div>
             
-            <div class="m-auto w-10">
+            <div class="m-auto w-15">
             <img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png" alt="Logo of Java Programming" title="Java Programming Language"> 
             <span class="text-muted display-block text-small">Java</span>
             </div>
 
-            <div class="m-auto w-10">
+            <div class="m-auto w-15">
             <img src="https://img.icons8.com/color/40/000000/xml-file.png" alt="Logo of Extensible Markup Language" title="XML">
             <span class="text-muted display-block text-small">XML</span>
             </div>    

@@ -61,6 +61,9 @@ a, p{
 .w-10 {
     width: 10% !important; 
 }
+.w-15 {
+    width: 15% !important; 
+}
 .mr-25{
     margin-right: 25% !important;
 }
@@ -233,14 +236,14 @@ a, p{
 }
 /* 
     ##Device = Larger desktop screens
-    ##Screen = 2000px and up
+    ##Screen = 2560px and up
 */
-@media (max-width: 2000px) {
+@media (max-width: 2560px) {
     .headerTitle h1{
         font-size: 250px;
     }
     .headerSubject img{
-        width: 400px;
+        width: 430px;
     }
     .headerSubject{
         bottom: -1%!important;
@@ -256,6 +259,9 @@ a, p{
     }
     .headerSubject{
         bottom: -2%!important;
+    }
+    .headerSubject img{
+        width: 360px;
     }
 }
 
