@@ -29,9 +29,9 @@
         <div class="row py-5 no-gutters">
 
             <div class="col-md-4 ftco-animate p-2 ">    
-                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/UI_design_Appliance_Android/UI_Design_Appliance_SC2.jpg);">
+                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/UI_Design_Appliance_Android/UI_Design_Appliance_SC2.jpg);">
                     <div class="project-overlay"></div>
-                    <a href="assets/images/UI_design_Appliance_Android/UI_Design_Appliance_SC2.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+                    <a href="assets/images/UI_Design_Appliance_Android/UI_Design_Appliance_SC2.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
                         <i class="fas fa-photo-video fa-2x"></i>
                     </a>
                     <div class="desc w-100 px-4">
@@ -44,9 +44,9 @@
             </div>
         
             <div class="col-md-4 ftco-animate p-2 ">    
-                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/UI_design_Appliance_Android/UI_Design_Appliance_SC1.jpg);">
+                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/UI_Design_Appliance_Android/UI_Design_Appliance_SC1.jpg);">
                     <div class="project-overlay"></div>
-                    <a href="assets/images/UI_design_Appliance_Android/UI_Design_Appliance_SC1.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+                    <a href="assets/images/UI_Design_Appliance_Android/UI_Design_Appliance_SC1.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
                         <i class="fas fa-photo-video fa-2x"></i>
                     </a>
                     <div class="desc w-100 px-4">
@@ -60,9 +60,9 @@
             </div>
 
             <div class="col-md-4 ftco-animate p-2 ">    
-                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/UI_design_Appliance_Android/UI_Design_Appliance_SC3.jpg);">
+                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/UI_Design_Appliance_Android/UI_Design_Appliance_SC3.jpg);">
                     <div class="project-overlay"></div>
-                    <a href="assets/images/UI_design_Appliance_Android/UI_Design_Appliance_SC3.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+                    <a href="assets/images/UI_Design_Appliance_Android/UI_Design_Appliance_SC3.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
                         <i class="fas fa-photo-video fa-2x"></i>
                     </a>
                     <div class="desc w-100 px-4">
@@ -74,9 +74,9 @@
             </div>
 
             <div class="col-md-4 ftco-animate p-2 ">    
-                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/UI_design_Appliance_Android/UI_Design_Appliance_SC4.jpg);">
+                <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/UI_Design_Appliance_Android/UI_Design_Appliance_SC4.jpg);">
                     <div class="project-overlay"></div>
-                    <a href="assets/images/UI_design_Appliance_Android/UI_Design_Appliance_SC4.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+                    <a href="assets/images/UI_Design_Appliance_Android/UI_Design_Appliance_SC4.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
                         <i class="fas fa-photo-video fa-2x"></i>
                     </a>
                     <div class="desc w-100 px-4">

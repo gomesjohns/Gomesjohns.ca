@@ -25,7 +25,9 @@ a, p{
     border: 0;
     border-top: 1px solid rgba(255, 255, 255, 0.09); 
 }
-
+.bg-secondary{
+    background-color: #2E90A6 !important;
+}
 .bgSize-auto{
     background-size: auto !important;
 }
@@ -73,6 +75,13 @@ a, p{
 .neg-m{
     margin-top: -3%;
 }
+.lineHeight-40{
+    line-height: 40px;
+}
+.text-indent{
+    text-indent: 40px;
+}
+
 /* Navbar */
 .nav-custom{
     background-color: #4a4a4a!important;
@@ -233,6 +242,11 @@ a, p{
     background: -webkit-linear-gradient(0deg, rgba(38,38,38,1) 0%, rgba(74,74,74,0.10407913165266103) 70%);
     background: linear-gradient(0deg, rgba(38,38,38,1) 0%, rgba(74,74,74,0.10407913165266103) 70%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#262626",endColorstr="#4a4a4a",GradientType=1);
+}
+
+/* Progress Bar */
+.progressBar-height{
+    height: 15px;
 }
 /* 
     ##Device = Larger desktop screens

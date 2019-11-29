@@ -1,6 +1,6 @@
 
     <!-- Footer-->
-    <footer class="ftco-footer py-5">
+    <footer class="ftco-footer py-5 mt-5">
             <div class="container text-center">
                 <div class="row">
                     <div class="col-md-12 text-center">
@@ -34,7 +34,6 @@
         <script src="js/script.js"></script>   
         <script>
             var pagename= location.pathname.split('/').pop();
-            console.log(pagename);
             if(pagename == 'index.php' || pagename == ''){
                  var scene = document.getElementById('scene');
             var parallax = new Parallax(scene);

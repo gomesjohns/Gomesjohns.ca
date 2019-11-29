@@ -4,7 +4,7 @@
     <div class="py-5 container">
         <!-- Header Text -->
         <div class="row project-title">
-            <div class="m-auto heading-section text-center ">
+            <div class="m-auto heading-section text-center">
                 <h1>Customer feedback system</h1>
                 <p>Customer feedback management system is a MEAN application. This application allow customers to leave feedback about a company or
                     organization. Company or organization can then use those feedback to improve their customer service. 
