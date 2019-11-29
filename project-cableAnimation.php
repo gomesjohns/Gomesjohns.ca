@@ -5,7 +5,7 @@
         <!-- Header Text -->
         <div class="row project-title">
             <div class="m-auto heading-section text-center ">
-                <h1>3D Cable Animation</h1>
+                <h1>3D Animation Tedx</h1>
                 <p>3D animation for Centennial College's Tedx presentation. Animation had to depict resilience. 
                     It was then used to promote the event on social media and on Centennial College's website.
                 </p>    

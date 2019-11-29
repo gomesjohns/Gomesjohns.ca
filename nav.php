@@ -38,24 +38,27 @@
             </button>
     
             <div class="collapse navbar-collapse " id="navbarSupportedContent">
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item active">
+                <ul class="navbar-nav ml-auto ">
+                    <li class="nav-item">
                         <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
                     </li>
+                    
+                    <li class="nav-item dropdown ">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Projects
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="project-tripPlanner.php">Trip Planner</a>
+                            <a class="dropdown-item" href="project-CFMS.php">Customer Feedback System</a>
+                            <a class="dropdown-item" href="project-invasion.php">Invasion</a>
+                            <a class="dropdown-item" href="project-UI_Design_Appliance.php">Appliance Management UI</a>
+                            <a class="dropdown-item" href="project-cableAnimation.php">3D Animation Tedx</a>           
+                        </div>
+                    </li>
+
                     <li class="nav-item">
                         <a class="nav-link" href="about.php">About</a>
                     </li>
-                    <!--  <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Projects
-                    </a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="#">Action</a>
-                        <a class="dropdown-item" href="#">Another action</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#">Something else here</a>
-                    </div>
-                    </li> -->
                 </ul>
             </div>
         </div>

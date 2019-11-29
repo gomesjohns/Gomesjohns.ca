@@ -36,7 +36,7 @@
             <div class="col-md-4 ftco-animate p-2 ">    
                 <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/Trip_Android/TripApp_SC6.jpg);">
                     <div class="project-overlay"></div>
-                        <a href="project-trip_android.php" class="icon d-flex justify-content-center align-items-center">
+                        <a href="project-tripPlanner.php" class="icon d-flex justify-content-center align-items-center">
                             <i class="fas fa-external-link-alt fa-2x"></i>
                         </a>
                     
@@ -98,9 +98,9 @@
             </div>
 
             <div class="col-md-4 ftco-animate p-2">
-                <div class="project-block img d-flex align-items-end bgPos-left" style="background-image: url(assets/images/CableUnravel_3DAnimation/CableUnravel_SC1.jpg);">
+                <div class="project-block img d-flex align-items-end bgPos-left" style="background-image: url(assets/images/CableUnravel_3DAnimation/CableUnravel_Img1.jpg);">
                     <div class="project-overlay"></div>
-                    <a href="project-cableUnravel_3DAnimation.php" class="icon d-flex justify-content-center align-items-center">
+                    <a href="project-cableAnimation.php" class="icon d-flex justify-content-center align-items-center">
                         <i class="fas fa-external-link-alt fa-2x"></i>
                     </a>
                     <div class="desc w-100 px-4">

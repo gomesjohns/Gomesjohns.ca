@@ -54,6 +54,7 @@ window.onload = function() {
     css.innerHTML = ".typewrite > .wrap { border-right: 0.08em solid #D7D7D9}";
     document.body.appendChild(css);
 };
+
 // Custom navbar background function
 $(function(){
   var pagename= location.pathname.split('/').pop();
@@ -67,6 +68,8 @@ $(function(){
       nav.addClass("nav-custom"); 
       nav.removeClass("fixed-top"); 
   }
+
+  
 });
 
 // Progress bar animated
@@ -84,3 +87,10 @@ $(".progress-bar").each(function(i){
         }
     });
 });
+
+$(document).ready(function(){
+  $('.navbar-nav .nav-item').click(function(){
+      $('.navbar-nav .nav-item').removeClass('active');
+      $(this).addClass('active');
+  })
+  });
