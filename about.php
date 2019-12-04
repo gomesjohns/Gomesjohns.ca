@@ -209,5 +209,64 @@
         </div>
     </div>
 </div>
+
+	<!-- Start Contact Section -->
+    <section class="contact-section pb-2 pt-2" id="contact">
+      <div class="container">
+      	<div class="row justify-content-center pb-5">
+          <div class="col-md-4 heading-section text-center ftco-animate">
+            <h1 class="mb-4">Contact Me</h1>
+          </div>
+        </div>
+
+        <div class="row mb-5">
+          <div class="col-md-3 d-flex ftco-animate">
+          	<div class="align-self-stretch box text-center p-4">
+          		<div class="icon d-flex align-items-center justify-content-center">
+          			<span class="icon-map-signs"></span>
+          		</div>
+          		<div>
+	          		<h3 class="mb-4">Location</h3>
+		            <p>Toronto, Ontario</p>
+		          </div>
+	          </div>
+          </div>
+          <div class="col-md-3 d-flex ftco-animate">
+          	<div class="align-self-stretch box text-center p-4">
+          		<div class="icon d-flex align-items-center justify-content-center">
+          			<span class="icon-phone2"></span>
+          		</div>
+          		<div>
+	          		<h3 class="mb-4">Contact Number</h3>
+		            <p><a href="tel://6478525646">(647)852-5646</a></p>
+	            </div>
+	          </div>
+          </div>
+          <div class="col-md-3 d-flex ftco-animate">
+          	<div class="align-self-stretch box text-center p-4">
+          		<div class="icon d-flex align-items-center justify-content-center">
+          			<span class="icon-paper-plane"></span>
+          		</div>
+          		<div>
+	          		<h3 class="mb-4">Email Address</h3>
+		            <p><a href="mailto:gomes.john103@gmail.com">gomes.john103@gmail.com</a></p>
+		          </div>
+	          </div>
+          </div>
+          <div class="col-md-3 d-flex ftco-animate">
+          	<div class="align-self-stretch box text-center p-4">
+          		<div class="icon d-flex align-items-center justify-content-center">
+          			<span class="icon-globe"></span>
+          		</div>
+          		<div>
+	          		<h3 class="mb-4">Website</h3>
+		            <p><a href="gomesjohns.ca">gomesjohns.ca</a></p>
+	            </div>
+	          </div>
+          </div>
+        </div>
+      </div>
+    </section>
+		<!-- End Contact Section -->
     
 <?php include('footer.php');?>
