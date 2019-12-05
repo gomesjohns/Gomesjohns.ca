@@ -27,39 +27,40 @@
 </head>
 <body>
     <!-- Navbar -->
-    <nav id="navbar" class="navbar navbar-expand-lg navbar-dark fixed-top">
+    <nav class="navbar navbar-dark fixed-top navbar-expand-lg">
+        <!-- Navbar content -->
         <div class="container">
             <a class="navbar-brand" href="index.php">
                 <img src="assets/images/Logo_light.png" width="90" alt="logo of gomesjohns.ca">
             </a>
+
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" 
             aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-    
+
             <div class="collapse navbar-collapse " id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto ">
-                    <li class="nav-item">
+                    <li class="nav-item mr-5">
                         <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
                     </li>
-                    
-                    <li class="nav-item dropdown ">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <li class="nav-item dropdown mr-5">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Projects
                         </a>
-                        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="project-tripPlanner.php">Trip Planner</a>
-                            <a class="dropdown-item" href="project-CFMS.php">Customer Feedback System</a>
-                            <a class="dropdown-item" href="project-invasion.php">Invasion</a>
-                            <a class="dropdown-item" href="project-UI_Design_Appliance.php">Appliance Management UI</a>
-                            <a class="dropdown-item" href="project-cableAnimation.php">3D Animation Tedx</a>           
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" href="development.php">Development</a>
+                        <a class="dropdown-item" href="design.php">Design</a>
+                        <a class="dropdown-item" href="visualArt.php">Visual Art</a>
                         </div>
                     </li>
-
                     <li class="nav-item">
-                        <a class="nav-link" href="about.php">About</a>
+                        <a class="nav-link" href="about.php">About</span></a>
                     </li>
+                    
                 </ul>
             </div>
         </div>
     </nav>
+
+
