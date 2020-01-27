@@ -26,13 +26,13 @@
             </div>
             <div class="col-md-6 ftco-animate p-2 ">    
                 <div class="project-block img d-flex align-items-end" style="background-image: url(assets/images/Photography/Photo_22.jpg);"> 
-                    <a href="https://youtu.be/uyphtwUrTlk" class="icon d-flex justify-content-center align-items-center">
+                    <a href="videography.php" class="icon d-flex justify-content-center align-items-center">
                         <i class="fas fa-video fa-2x"></i>
                     </a>
                 </div>
                 <div class="py-4 row project-title">
                     <div class="m-auto heading-section text-center ">
-                        <h2>Cinematography</h2>      
+                        <h2>Videography</h2>      
                     </div>
                 </div>
 

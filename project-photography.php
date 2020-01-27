@@ -118,10 +118,6 @@
                     </a>
                 </div>
             </div>
-        </div>   
-
-        <div class="hr"></div>
-        <div class="row py-5 no-gutters">
             <div class="col-md-3 ftco-animate p-2 ">    
                 <div class="project-block img d-flex align-items-end" style="background-image: url(assets/images/Photography/Photo_17.jpg);"> 
                     <a href="assets/images/Photography/Photo_17.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
@@ -164,6 +160,8 @@
                     </a>
                 </div>
             </div>
+        </div>   
+
         </div>
 
                

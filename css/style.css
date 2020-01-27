@@ -31,6 +31,14 @@ a, p{
 .bgSize-auto{
     background-size: auto !important;
 }
+.bgSize-cover{
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+}
+.bgSize-contain{
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+}
 .bgPos-right{
     background-position: right !important;
 }
@@ -80,6 +88,25 @@ a, p{
 }
 .text-indent{
     text-indent: 40px;
+}
+.largeMenu-overlay{
+    background: #313131d9;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    display: table;
+}
+
+.largeMenu-overlay :hover{
+    background: #61616185;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    display: table;
+}
+.largeMenu-text{
+    display: table-cell;
+    vertical-align: middle;
 }
 
 /* Navbar */
@@ -140,6 +167,16 @@ a, p{
 .headerTitle h1{
     font-weight: 700;
 }
+
+.large-menu {
+    width: 100%; }
+    .large-menu .box {
+      background: #202224;
+      width: 100%; }
+      .large-menu .box h3 {
+        font-size: 16px; }
+      
+    
 
 /* Text */
 .heading-section h1{

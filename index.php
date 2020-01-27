@@ -22,6 +22,54 @@
         
     </div>
 
+    <!-- Start Large Menu -->
+    <section class="large-menu mt-5 pt-4">
+      <div class="container">
+        <div class="row">
+            
+          <div class="col-md-3 d-flex ftco-animate">
+            <div class="align-self-stretch box text-center bgSize-cover" style="background-image: url(assets/images/Trip_Android/TripApp_SC6.jpg);">
+                <a href="development.php">
+                    <div class="largeMenu-overlay">
+                        <h3 class="largeMenu-text mb-0 p-5">Development</h3>
+                    </div>
+                </a>
+            </div>
+          </div>
+
+          <div class="col-md-3 d-flex ftco-animate">
+            <div class="align-self-stretch box text-center bgSize-cover" style="background-image: url(assets/images/OPG/Turbine.jpg);">
+                <a href="design.php">  
+                    <div class="largeMenu-overlay">
+                        <h3 class="largeMenu-text mb-0 p-5">Design</h3>
+                    </div>
+                </a>
+            </div>
+          </div>
+          <div class="col-md-3 d-flex ftco-animate">
+            <div class="align-self-stretch box text-center bgSize-cover bgPos-right" style="background-image: url(assets/images/Photography/Photo_15.jpg);">
+                <a href="project-photography.php">  
+                    <div class="largeMenu-overlay">
+                        <h3 class="largeMenu-text mb-0 p-5">Photography</h3>
+                    </div>
+                </a>
+            </div>
+          </div>
+          <div class="col-md-3 d-flex ftco-animate">
+            <div class="align-self-stretch box text-center bgSize-cover" style="background-image: url(assets/images/Photography/Photo_22.jpg);">
+                <a href="videography.php">  
+                    <div class="largeMenu-overlay">
+                        <h3 class="largeMenu-text mb-0 p-5">Videography</h3>
+                    </div>
+                </a>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+		<!-- End Contact Section -->
+
     <!-- Featured Projects -->
     <div class="pt-5 container">
         <div class="row pt-2 justify-content-center">
@@ -36,14 +84,13 @@
             <div class="col-md-4 ftco-animate p-2 ">    
                 <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/Trip_Android/TripApp_SC6.jpg);">
                     <div class="project-overlay"></div>
-                        <a href="project-tripPlanner.php" class="icon d-flex justify-content-center align-items-center">
-                            <i class="fas fa-external-link-alt fa-2x"></i>
-                        </a>
-                    
+                    <a href="project-tripPlanner.php" class="icon d-flex justify-content-center align-items-center">
+                        <i class="fas fa-external-link-alt fa-2x"></i>
+                    </a>
                     <div class="desc w-100 px-4">
                         <div class="text w-100 mb-3">
                             <span>Android Development</span>
-                            <h2><a href="work-single.html">Trip Planner App</a></h2>
+                            <h2>Trip Planner App</h2>
                         </div>
                     </div>
                 </div>
@@ -58,7 +105,7 @@
                     <div class="desc w-100 px-4">
                         <div class="text w-100 mb-3">
                             <span>Web App Development</span>
-                            <h2><a href="work-single.html">Customer Feedback System</a></h2>
+                            <h2>Customer Feedback System</h2>
                         </div>
                     </div>
                 </div>
@@ -73,7 +120,7 @@
                     <div class="desc w-100 px-4">
                         <div class="text w-100 mb-3">
                             <span>Web Game Development</span>
-                            <h2><a href="work-single.html">Invasion</a></h2>
+                            <h2>Invasion</h2>
                         </div>
                     </div>
                 </div>
@@ -82,16 +129,13 @@
             <div class="col-md-4 ftco-animate p-2 ">    
                 <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/UI_Design_Appliance_Android/UI_Design_Appliance_SC4.jpg);">
                     <div class="project-overlay"></div>
-                    
-                        <a href="project-UI_Design_Appliance.php" class="icon d-flex justify-content-center align-items-center">
-                            <i class="fas fa-external-link-alt fa-2x"></i>
-                            <div class=""></div>
-                        </a>
-                    
+                    <a href="project-UI_Design_Appliance.php" class="icon d-flex justify-content-center align-items-center">
+                        <i class="fas fa-external-link-alt fa-2x"></i>
+                    </a>
                     <div class="desc w-100 px-4">
                         <div class="text w-100 mb-3">
                             <span>UI Design</span>
-                            <h2><a href="work-single.html">Appliance Management App</a></h2>
+                            <h2>Appliance Management App</h2>
                         </div>
                     </div>
                 </div>
@@ -106,41 +150,27 @@
                     <div class="desc w-100 px-4">
                         <div class="text w-100 mb-3">
                             <span>3D Animation</span>
-                            <h2><a href="work-single.html">Centennial College Tedx 2018</a></h2>
+                            <h2>Centennial College Tedx 2018</h2>
                         </div>
                     </div>
                 </div>
             </div>
 
             <div class="col-md-4 ftco-animate p-2">
-                <div class="project-block img d-flex align-items-end bgPos-left" style="background-image: url(assets/images/Photography/Photo_5.jpg);">
+                <div class="project-block img d-flex align-items-end bgPos-left" style="background-image: url(assets/images/OPG/3655_idealGasLaw.jpg);">
                     <div class="project-overlay"></div>
-                    <a href="project-photography.php" class="icon d-flex justify-content-center align-items-center">
+                    <a href="project-OPG_Designs.php" class="icon d-flex justify-content-center align-items-center">
                         <i class="fas fa-external-link-alt fa-2x"></i>
                     </a>
                     <div class="desc w-100 px-4">
                         <div class="text w-100 mb-3">
-                            <span>Photography</span>
-                            <h2><a href="work-single.html">My Photography Portfolio</a></h2>
+                            <span>Design and Development</span>
+                            <h2>OPG Work Term</h2>
                         </div>
                     </div>
                 </div>
             </div>
 
-            <div class="col-md-4 ftco-animate p-2">
-                <div class="project-block img d-flex align-items-end" style="background-image: url(assets/images/Photography/Photo_22.jpg);">
-                    <div class="project-overlay"></div>
-                    <a href="https://youtu.be/uyphtwUrTlk" class="icon d-flex justify-content-center align-items-center">
-                        <i class="fas fa-external-link-alt fa-2x"></i>
-                    </a>
-                    <div class="desc w-100 px-4">
-                        <div class="text w-100 mb-3">
-                            <span>Cinematography</span>
-                            <h2><a href="work-single.html">My Cinematography Portfolio</a></h2>
-                        </div>
-                    </div>
-                </div>
-            </div>
         </div>
          
     </div>
