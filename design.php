@@ -12,7 +12,7 @@
 
         <!-- Image Gallery -->
         <div class="mt-5 row no-gutters">
-            <div class="col-md-4 ftco-animate p-2 ">    
+            <div class="col-md-3 ftco-animate p-2 ">    
                     <div class="project-block img d-flex align-items-end bgPos-top" style="background-image: url(assets/images/UI_Design_Appliance_Android/UI_Design_Appliance_SC4.jpg);">
                         <div class="project-overlay"></div>
                         
@@ -30,7 +30,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-4 ftco-animate p-2">
+                <div class="col-md-3 ftco-animate p-2">
                     <div class="project-block img d-flex align-items-end bgPos-left" style="background-image: url(assets/images/CableUnravel_3DAnimation/CableUnravel_Img1.jpg);">
                         <div class="project-overlay"></div>
                         <a href="project-cableAnimation.php" class="icon d-flex justify-content-center align-items-center">
@@ -45,7 +45,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-4 ftco-animate p-2">
+                <div class="col-md-3 ftco-animate p-2">
                     <div class="project-block img d-flex align-items-end " style="background-image: url(assets/images/OPG/Turbine.jpg);">
                         <div class="project-overlay"></div>
                         <a href="project-OPG_Designs.php" class="icon d-flex justify-content-center align-items-center">
@@ -55,6 +55,21 @@
                             <div class="text w-100 mb-3">
                                 <span>Work Term</span>
                                 <h2>Ontario Power Generation</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3 ftco-animate p-2">
+                    <div class="project-block img d-flex align-items-end " style="background-image: url(assets/images/Misc_Design/12.jpg);">
+                        <div class="project-overlay"></div>
+                        <a href="project-misc.php" class="icon d-flex justify-content-center align-items-center">
+                            <i class="fas fa-external-link-alt fa-2x"></i>
+                        </a>
+                        <div class="desc w-100 px-4">
+                            <div class="text w-100 mb-3">
+                                <span>Freelance/ Personal Projects</span>
+                                <h2>Designs from various projects</h2>
                             </div>
                         </div>
                     </div>
